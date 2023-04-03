@@ -1,0 +1,4 @@
+Kattis Submission for QuicksortFixedPivot: 10628128
+Kattis Submission for QuicksortFixedPivotInsertion: 10635507
+Kattis Submission for QuicksortRandomPivot: 10628170
+Kattis Submission for QuicksortRandomPivotInsertion: 10635524
