@@ -1,0 +1,1 @@
+There were no questions requiring written solutions to task-18.
